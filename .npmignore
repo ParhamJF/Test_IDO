@@ -1,0 +1,12 @@
+node_modules
+.vscode
+migrations
+contracts
+truffle.js
+compile.js
+deploy.js
+event.repository.ts
+jsonfile.json
+config.json
+server.js
+.DS_Store
